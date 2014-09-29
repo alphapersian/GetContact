@@ -16,4 +16,4 @@ list<hashmap<String ,String>> contacts=new arrayList<hashmap<String,String>>();
 
 
 list = contacts.getContact();
-
+ 
